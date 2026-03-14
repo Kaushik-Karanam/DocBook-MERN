@@ -2,7 +2,7 @@
 
 DocBook is a robust MERN-stack application designed to bridge the gap between patients and healthcare providers. It features a secure, role-based scheduling system, real-time appointment management, and a centralized dashboard for medical professionals.
 
-![Homepage](./Hook.png)
+![Homepage](./images/Hook.png)
 
 ---
 
@@ -17,7 +17,7 @@ DocBook is a robust MERN-stack application designed to bridge the gap between pa
 
 ## 🛠 Tech Stack
 
-![Tech Stack](./Tools.png)
+![Tech Stack](./images/Tools.png)
 
 | Layer      | Technology                              |
 |------------|-----------------------------------------|
@@ -30,13 +30,13 @@ DocBook is a robust MERN-stack application designed to bridge the gap between pa
 
 ## 📅 Advanced Scheduling Logic
 
-![Calendar Logic](./Logic.png)
+![Calendar Logic](./images/Logic.png)
 
 Implementation of the dynamic availability engine. The system calculates open slots in real-time, allowing users to book appointments based on specific doctor schedules.
 
 ## 🔄 Appointment Workflow
 
-![Booking Workflow](./Result.png)
+![Booking Workflow](./images/Result.png)
 
 A seamless end-to-end flow from doctor discovery to confirmed booking, ensuring data integrity across the MongoDB database.
 
